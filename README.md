@@ -12,4 +12,5 @@ For more information, please visit Kaggle : https://www.kaggle.com/competitions/
 - submit한 RMSLE : 0.82765
 
 ## Caution
-Please use `np.expm1()` because of predicting the y value as the log value.
+- Please use `np.expm1()` because of predicting the y value as the log value.
+- The other linear models can't test.
