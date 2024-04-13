@@ -1,4 +1,4 @@
-# Store-Sales---Time-Series-Forecasting
+# Kaggle-Store-Sales---Time-Series-Forecasting
 ## Goal of the Competition
 In this “getting started” competition, you’ll use time-series forecasting to forecast store sales on data from Corporación Favorita, a large Ecuadorian-based grocery retailer.\
 대규모 식료품 소매업체인 Corporación Favorita의 데이터를 바탕으로 매장 매출을 예측 (특정 가게에서 파는 특정 물품의 판매량 예측)\
